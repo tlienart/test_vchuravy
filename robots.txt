@@ -1,0 +1,4 @@
+Sitemap: https://vchuravy.dev/sitemap.xml
+
+User-agent: *
+Disallow:
